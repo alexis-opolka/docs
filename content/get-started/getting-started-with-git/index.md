@@ -16,7 +16,7 @@ children:
   - /setting-your-username-in-git
   - /caching-your-github-credentials-in-git
   - /why-is-git-always-asking-for-my-password
-  - /updating-credentials-from-the-macos-keychain
+  - /updating-credentials-from-your-keychain
   - /git-workflows
   - /about-remote-repositories
   - /managing-remote-repositories
